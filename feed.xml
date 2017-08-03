@@ -6,9 +6,123 @@
 </description>
     <link>http://ws1.corp.ailabs.tw:4000/</link>
     <atom:link href="http://ws1.corp.ailabs.tw:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Aug 2017 17:48:15 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Aug 2017 17:48:15 +0800</lastBuildDate>
+    <pubDate>Thu, 03 Aug 2017 17:49:17 +0800</pubDate>
+    <lastBuildDate>Thu, 03 Aug 2017 17:49:17 +0800</lastBuildDate>
     <generator>Jekyll v3.4.5</generator>
+    
+      <item>
+        <title>瘋了！網友問「台灣哪位名人逝世 會被開心的推爆?」，回覆居然⋯⋯</title>
+        <description>&lt;p&gt;標題寫著：「台灣哪位名人逝世 會被開心的推爆?」，一則這樣的提問文章，讓PTT鄉民紛紛出籠，提供各式解答。&lt;/p&gt;
+
+&lt;p&gt;作者nonpolar表示：「台灣某幾位名人喜愛在臉書發文，如果被轉到八卦通常被問候怎還沒死，目前有哪幾位名人如果往生，新聞下最有可能被歡慶的推到爆，還是說到了那一刻，其實鄉民還是會送上R.I.P，反而一點開心的感覺都沒有」，詢問眾人意見。&lt;/p&gt;
+
+&lt;p&gt;鄉民回覆踴躍，紛紛表示：「黃安不算吧，他哪裡是台灣人」、「KMT體系絕對上榜，DPP看人」、「蠻多的，但是仔細想來很多有名的好像都不是台灣人餒」，而g1isme則評論說：「建議標題改支那人，再發一篇試試看」&lt;/p&gt;
+
+&lt;p&gt;網民想法、背景各不相同，回答時而紛亂時而搞怪，難免有時令人摸不著頭緒。&lt;/p&gt;
+
+&lt;p&gt;或許x1217xx寫下的：「黃安，郝柏村，蔡正元，馬英九，蔡英文」，是最認真的回覆。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501740739.A.399.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Aug 2017 17:48:50 +0800</pubDate>
+        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501740739.A.399.html</link>
+        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501740739.A.399.html</guid>
+        
+        <category>Gossiping</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>天啊！太誇張！PTT鄉民daviden爆出驚人八卦。</title>
+        <description>&lt;figure&gt;
+&lt;img src=&quot;http://i.imgur.com/vu0gLXh.png&quot; alt=&quot;image&quot; /&gt;
+&lt;figcaption&gt;
+[爆卦] 臉書機器人自創語言事件的實驗
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;不說你就不知道，挖掘真相靠爆料。雖說爆料並非等同全面的事實，但在論述與證據來回中，迷霧得以揭開、真相得以顯露。而下面談到的這篇爆料文，便在網路世界引起一陣譁然。&lt;/p&gt;
+
+&lt;p&gt;這篇以「臉書機器人自創語言事件的實驗」為題的文章作者是網友daviden，自2017年8月3日貼上網路論壇後，便在論壇眾多文章中，引起眾人不凡程度的熱切關注。&lt;/p&gt;
+
+&lt;p&gt;內文首先提到：「最近看到這個新聞覺得滿好笑的，我挑一個比較不成熟的(loss高的)來展示，core這個序列，這是完成第一個循環(epoch，Network(RNN)做出這種結果是很常見的，scientist的部落格中」。&lt;/p&gt;
+
+&lt;p&gt;接著進一步，daviden繼續爆料，「做出來的文字是這樣，只是模型對訓練集的掌握不好，core的模型是同一個，我用的是RNN框架中的LSTM(主流的一種模型)，外加一個output層(dense，目的是讓機器人寫出生活智慧小撇步」。&lt;/p&gt;
+
+&lt;p&gt;看到這裡，您是否已跟網友一般，發出「這樣叫做炫一段，跟人解釋也叫做炫耀」、「就是啊，我也才想這樣po的說」或是「跟我想的有點出入，不過無傷大雅」等等驚呼？但這篇爆料文的最後，還寫著：「模型大致可以掌握拼字、縮寫，知道開頭要用lpt，以RNN模型來說，文字轉成數學向量，數學向量轉成文字，這是一個sequenceinsequenceout的模型」&lt;/p&gt;
+
+&lt;p&gt;也難怪有的網友像是aska4879A，會留下評論：「恩恩，跟我想得差不多」。&lt;/p&gt;
+
+&lt;p&gt;重磅消息、即時報導，記者快抄隨時與您分享國內論壇熱門爆料。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501740692.A.758.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Aug 2017 17:48:20 +0800</pubDate>
+        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501740692.A.758.html</link>
+        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501740692.A.758.html</guid>
+        
+        <category>Gossiping</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>「史嘉莉喬韓森的本體是臉還是奶」？鄉民這樣說。</title>
+        <description>&lt;figure&gt;
+&lt;img src=&quot;http://i.imgur.com/PHqSMxg.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;figcaption&gt;
+[問卦] 史嘉莉喬韓森的本體是臉還是奶
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;有什麼難題找不到解答嗎？或許鄉民能為你服務。&lt;/p&gt;
+
+&lt;p&gt;帳號名為amy3563867的網友，就在今日稍早於批踢踢貼出一則問題，標題寫著：「史嘉莉喬韓森的本體是臉還是奶」。&lt;/p&gt;
+
+&lt;p&gt;問題的內容說到，「乳題，肥宅覺得她整個人都在發光，臉非常有辨識度，身高好像只有一米六，但是那個ㄋㄟㄋㄟ太逆天了，微肉的身材放在其他人身上大概會被砲很慘，如果只有臉沒有那個身材又會淪陷在好萊塢女星之中，所以女神史嘉莉喬韓森的本體到底是什麼啊，有沒有八卦」，詢問廣大網友的意見。&lt;/p&gt;
+
+&lt;p&gt;沒想到回應陸續增多，有人說：「看到攻殼機動隊影照覺得好像歐巴桑」、「黑寡婦那有修啦，其實身材比例沒有很好，去看攻殼就知」，也有人談到：「身材比例怪，黑寡婦不知道是不是靠修圖弄出來的」。&lt;/p&gt;
+
+&lt;p&gt;其中，「yangtsur」與「wwvvkai」所說的，「身材比例不好」、「奶，看肌膚之侵」，或許正好是眾多回應的總結。&lt;/p&gt;
+
+&lt;p&gt;最直接最快速的回應，由記者快抄為您分享。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501740434.A.F50.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Aug 2017 17:48:16 +0800</pubDate>
+        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501740434.A.F50.html</link>
+        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501740434.A.F50.html</guid>
+        
+        <category>Gossiping</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>網友ImNotAngel的提問引網路世界注目。</title>
+        <description>&lt;p&gt;隨口一問，引網友瘋狂討論？在2017年8月3日，時間13點50分20秒，一句「把勞保取消，大家退休金自己存會怎樣？」當標題，內容寫著：「現在大家一直喊勞保會破產，照現在這樣看來，78年級生辛辛苦苦繳了230年，真的可能會領不到，政府好像也沒打算處理這個問題，那如果乾脆，把勞保取消，大家退休金自己存會怎樣」，這樣的一篇文章，竟吸引不少人爭相留言。&lt;/p&gt;
+
+&lt;p&gt;不但有類似「104年台灣平均最低生活費10869，領不到22K說無法維持基」、「政府65，用比例來說，勞保快優於公保一倍那裡有問題」的回應，如「不然一視同仁把公保，勞保都取消好了，看誰先跳腳」的評論也有出現。&lt;/p&gt;
+
+&lt;p&gt;網友zanns則特別回應：「兩個都取消，政府會先跳腳」，增加文章討論面向。&lt;/p&gt;
+
+&lt;p&gt;而另一位網友YaLingYin也有感而發，留言表示：「本生活，那就是有額外花費阿，本來就該另外存」，相當有意思。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501739423.A.230.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Aug 2017 17:48:15 +0800</pubDate>
+        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501739423.A.230.html</link>
+        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501739423.A.230.html</guid>
+        
+        <category>Gossiping</category>
+        
+        
+      </item>
     
       <item>
         <title>英文之後 日韓西法德俄 該學哪個？鄉民感慨留言：「英文，西北歐幾乎通，不用學什麼德文啦」。</title>
@@ -147,112 +261,6 @@
         <pubDate>Thu, 03 Aug 2017 17:45:12 +0800</pubDate>
         <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501736291.A.0A7.html</link>
         <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501736291.A.0A7.html</guid>
-        
-        <category>Gossiping</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>網友upeo的提問引網路世界注目。</title>
-        <description>&lt;figure&gt;
-&lt;img src=&quot;http://i.imgur.com/goT1aaK.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;figcaption&gt;
-[問卦] 有沒有機車行老闆的洗手乳的卦？
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;隨口一問，引網友瘋狂討論？在2017年8月3日，時間12點40分4秒，一句「有沒有機車行老闆的洗手乳的卦？」當標題，內容寫著：「我環島肥宅啦，今天D5，在楓港，等等準備走南迴公路，這是南大武山，今天天氣很好喔，這幾天常常落輪，弄完手髒髒的，如果旁邊是機車行的話，會覺得意外幸運，師父都有特別的洗潔劑，一坨白白的，搓一下手上黑油乾淨俐落，怎麼這麼厲害，這到底是什麼牌的，有毒嘛，有八卦」，這樣的一篇文章，竟吸引不少人爭相留言。&lt;/p&gt;
-
-&lt;p&gt;不但有類似「第一次用黑手牌，去二級場幫忙時用的，手沾到的油汙都」、「洗黑手啊，超乾淨」的回應，如「黑手牌，洗手粉」的評論也有出現。&lt;/p&gt;
-
-&lt;p&gt;網友h8565656p則特別回應：「那個手洗多就裂開」，增加文章討論面向。&lt;/p&gt;
-
-&lt;p&gt;而另一位網友addert也有感而發，留言表示：「黑手牌，洗手粉」，相當有意思。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501735207.A.33D.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Aug 2017 17:44:43 +0800</pubDate>
-        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501735207.A.33D.html</link>
-        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501735207.A.33D.html</guid>
-        
-        <category>Gossiping</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>「機還有目標的去做一件事的，先讓自己有行動，不要管任何」！網路提問，驚呆百萬人。</title>
-        <description>&lt;p&gt;「可以先打工調整狀態，再找工作」。是什麼樣的問題，讓鄉民們產生這樣的回應？&lt;/p&gt;
-
-&lt;p&gt;今日稍早，zenbuiranai在國內知名論壇批踢踢，貼出一則問題，標題斗大寫著：「尼特快1年了 求解」，詢問網友意見。&lt;/p&gt;
-
-&lt;p&gt;文章提到：「也沒找職訓，雖然有想去外地工作自己住在外地，不想受任何人打擾，雖然自己的錢還夠自給自足，昨天又撕掉一封勞保局寄來的垃圾信，去年剛離職想自己住外面」，還說：「今年確實躲了一次，想撕，想撕，有想過出去旅遊把錢噴光，每週(甚至不到一週)輪調太累，反而比較想…呵呵」，&lt;/p&gt;
-
-&lt;p&gt;面對這樣的問題，眾鄉民群起回應，紛紛表示：「機還有目標的去做一件事的，先讓自己有行動，不要管任何」、「可以去打工度假慢慢想啊」或著「去找工作，走出去就會慢慢變好了，加油」，掀起一波討論。&lt;/p&gt;
-
-&lt;p&gt;一則提問意外引起熱烈討論，也難怪網友Yijhen0525會有感而發：「與其想那些，不如直接去找工作比較實際」。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501734996.A.DBA.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Aug 2017 17:44:41 +0800</pubDate>
-        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501734996.A.DBA.html</link>
-        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501734996.A.DBA.html</guid>
-        
-        <category>Gossiping</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>「你家鴿子是迷路了是不是」！網路提問，驚呆百萬人。</title>
-        <description>&lt;p&gt;「管他是不是，思想檢查」。是什麼樣的問題，讓鄉民們產生這樣的回應？&lt;/p&gt;
-
-&lt;p&gt;今日稍早，irvin在國內知名論壇批踢踢，貼出一則問題，標題斗大寫著：「請問謝震武484深藍?」，詢問網友意見。&lt;/p&gt;
-
-&lt;p&gt;文章提到：「最近看麻辣鮮師謝震武主持的新聞面對面，乍看之下好像算中立，但看久了每當有來賓批國民黨就會看到他跳出來幫忙緩頰」，還說：「然後很愛講中國歷史，請問他484深藍高級外省人阿」，&lt;/p&gt;
-
-&lt;p&gt;面對這樣的問題，眾鄉民群起回應，紛紛表示：「你家鴿子是迷路了是不是」、「看到軍公教先抹藍就贏了」或著「是，不過算蠻有風度了，主場優勢沒搞失衡的太誇張」，掀起一波討論。&lt;/p&gt;
-
-&lt;p&gt;一則提問意外引起熱烈討論，也難怪網友antilibra會有感而發：「了，不過仍得說蠻有品的，佔理的權重是取很重的」。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501734814.A.DEA.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Aug 2017 17:43:36 +0800</pubDate>
-        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501734814.A.DEA.html</link>
-        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501734814.A.DEA.html</guid>
-        
-        <category>Gossiping</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>愛吃皮蛋的都是些什麼人？鄉民感慨留言：「愛吃皮蛋的人」。</title>
-        <description>&lt;figure&gt;
-&lt;img src=&quot;http://i.imgur.com//G0sM6uG.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;figcaption&gt;
-[問卦] 愛吃皮蛋的都是些什麼人
-&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;愛吃皮蛋的都是些什麼人？這是國內知名論壇PTT的最新熱門話題，由帳號為Kyle5566的網友提出。文章提到，發現有皮蛋，皮蛋，皮蛋，皮蛋的歷史是這樣的，皮蛋在明代稱為混沌子，蛋白蛋黃皆已凝固，當地製做皮蛋的蛋行有，隨著皮蛋逐漸被國際接受，米糠作用是分隔每顆皮蛋，中醫認為皮蛋性寒，小弟弟我都直接吃，此方法為保存皮蛋之大道，醃製後的皮蛋，蛋白呈晶瑩通透的褐色為上品，更是皮蛋中的極品，變了質的皮蛋，不知道自己已鑄下滔天大罪，皮蛋擁護者不是你惹得起的，皮蛋這也好吃的東西，愛吃皮蛋的都是些什麼樣的人，徵求鄉民提供意見。&lt;/p&gt;
-
-&lt;p&gt;對此，有些鄉民表示：「皮蛋豆腐好吃」、「你們很皮嘛，皮蛋吃多了是吧」，也有如yangnana的鄉民認真回覆：「原來皮蛋是鴨蛋，看八卦長知識」。&lt;/p&gt;
-
-&lt;p&gt;究竟什麼才是原PO疑惑的解答呢？或許aqsss所說的，「皮蛋豆腐+醬油膏+肉鬆，好ㄘ」，是其中一種可能。&lt;/p&gt;
-
-&lt;p&gt;網路熱門話題，記者快抄與你一同討論。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ptt.cc/bbs/Gossiping/M.1501734684.A.D5E.html&quot;&gt;原文連結&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Aug 2017 17:42:54 +0800</pubDate>
-        <link>http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501734684.A.D5E.html</link>
-        <guid isPermaLink="true">http://ws1.corp.ailabs.tw:4000/2017/08/03/GossipingM.1501734684.A.D5E.html</guid>
         
         <category>Gossiping</category>
         
