@@ -1,8 +1,11 @@
+## 記者快抄(網頁)
+
+
+## 網頁生成
+
 Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+## 安裝
+
 
 For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
