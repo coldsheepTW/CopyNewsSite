@@ -1,11 +1,13 @@
-## 記者快抄(網頁)
-
+## 記者快抄
+由PTT熱門看板選取熱門文章，自動節錄生成新聞類型。
 
 ## 網頁生成
 
-Demo: [http://webjeda.com/cards](http://webjeda.com/cards)
+Powered by Jekyll
+layout modify from [webjeda](http://webjeda.com/cards)
 
 ## 安裝
 
+For more themes visit - [Jekyll Themes](https://jekyll-themes.com)
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+## Li
