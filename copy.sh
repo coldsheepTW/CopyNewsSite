@@ -1,9 +1,9 @@
 #!/bin/bash
 H=`pwd`
-date="2017-08-09-"
+date=`date +%Y-%m-%d`
 
 for page in $H/_pages/*
 do
     fname=`basename $page`
-    cp $page $H/_posts/$date$fname
+    cp $page $H/_posts/$date-$fname
 done
