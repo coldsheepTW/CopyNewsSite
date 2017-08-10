@@ -20,6 +20,13 @@ bundle exec jekyll serve --watch # 於local端(http://127.0.0.1:4000)架設網�
 bundle exec jekyll serve --host your_server --watch # 於你的機器上(your_server:4000)架設網站
 ```
 
+## Issues
+- 更好看與合理的Layout
+- 不同大小圖片在index頁的呈現問題
+- 
+- 當內文有多圖時的呈現問題
+- 
+- 分類項目下，
 
 ## CopyNews
 Auto-generate news articles from popular posts in PTT forum.
