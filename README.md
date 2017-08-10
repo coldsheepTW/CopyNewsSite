@@ -28,7 +28,7 @@ bundle exec jekyll serve --host your_server --watch # 於你的機器上(your_se
 - 更好看與合理的Layout
 - 不同大小圖片在index頁的呈現調整
 - 當內文有多圖時的呈現問題
-- 資料夾配置與`js`、`css`、`_includes`、`_layouts`等精簡
+- 資料夾配置與`js`、`_sass`、`_includes`、`_layouts`等精簡
 - 分類項目下，進到post頁面後的上下篇文目前未依照分類
 
 ## CopyNews
