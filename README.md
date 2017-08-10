@@ -3,6 +3,10 @@
 
 此github為網頁生成部分。
 
+由[記者快抄後端](https://github.com/exe1023/JustCopy)生成markdown檔至`_posts`資料夾後
+
+再根據markdown檔產生網頁(markdown格式請參閱brach gh-pages中的`_posts`資料夾)
+
 ## 網頁生成
 使用[Jekyll](https://jekyllrb.com/)套件生成網頁
 
