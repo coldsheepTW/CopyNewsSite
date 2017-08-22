@@ -33,7 +33,7 @@ bundle exec jekyll serve --host your_server --watch # 於你的機器上(your_se
 - 分類項目下，進到post頁面後的上下篇文目前未依照分類
 
 ## CopyNews
-Auto-generate news articles from popular posts in PTT forum.
+Auto-generate news articles from PTT forum popular posts.
 
 This github is the website-generation part.
 
